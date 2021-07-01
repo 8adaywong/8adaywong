@@ -4,7 +4,7 @@
 
 A junior at <a href="https://duke.edu/" target="_blank" >Duke University</a>, pursuing a bachelor’s degree in Computer Science with a certificate in Innovation & Entrepreneurship.
 
-### ☕️ Want to grab a virtual coffee together? Reach out!###
+### ☕️ Want to grab a virtual coffee together? Reach out! ###
 <p>
 <a href="https://www.linkedin.com/in/8adaywong/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;  
 <a href="https://instagram.com/itsadawong"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
@@ -13,10 +13,10 @@ A junior at <a href="https://duke.edu/" target="_blank" >Duke University</a>, pu
 </p>
 
 
-### 🌱  My Goals: ###
+### 🌱 My Goals: ###
 
 
-### 💻  Languages & Frameworks: ###
+### 💻 Languages & Frameworks: ###
 
 
 ### 📊 My Stats: ###
