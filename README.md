@@ -1,4 +1,4 @@
-### Hello there 👋
+# Hello there 👋
 
 <h3>I'm Ada Wong,</h3>
 
