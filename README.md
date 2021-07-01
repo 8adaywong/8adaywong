@@ -1,6 +1,7 @@
 ### Hello there 👋
 
 <h3>I'm Ada Wong,</h3>
+#
 
 A junior at <a href="https://duke.edu/" target="_blank" >Duke University</a>, pursuing a bachelor’s degree in Computer Science with a certificate in Innovation & Entrepreneurship.
 
