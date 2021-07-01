@@ -21,7 +21,11 @@ A junior at <a href="https://duke.edu/" target="_blank" >Duke University</a>, pu
 - [ ] Graduate college with a B.S. in Computer Science
 
 ### ⚙️ Languages & Frameworks: ###
-
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ### 📊 My Stats: ###
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=8adaywong&show_icons=true&hide_title=true&hide_border=true&icon_color=ff9b23" alt="8adaywong" />
