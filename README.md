@@ -16,7 +16,7 @@ A junior at <a href="https://duke.edu/" target="_blank" >Duke University</a>, pu
 ### 🌱 My Goals: ###
 - [x] ~Mentor females interested in a tech career~
 - [x] ~Teaching a Senior Software Engineer something new~ (Curious? Ask me what it was!)
-- [] Finish the book ["Set Boundaries, Find Peace"](https://amzn.to/3Aak5Kp "Set Boundaries, Find Peace")
+- [ ] Finish the book ["Set Boundaries, Find Peace"](https://amzn.to/3Aak5Kp "Set Boundaries, Find Peace")
 - [ ] Receive an internship for Summer 2022
 - [ ] Graduate college with a B.S. in Computer Science
 
