@@ -2,7 +2,7 @@
 
 ### I'm Ada Wong, ###
 
-A junior at <a href="https://duke.edu/" target="_blank" >Duke University</a>, pursuing a bachelor’s degree in computer science with a certificate in innovation & entrepreneurship. I'm currently a software engineering intern at <a href="https://www.nintendo.com/" target="_blank" >Nintendo</a> who enjoys building software to improve people's lives!
+A junior at <a href="https://duke.edu/" target="_blank" >Duke University</a>, pursuing a Bachelor’s degree in Computer Science with a Certificate in Innovation & Entrepreneurship. I'm currently a Software Engineering Intern at <a href="https://www.nintendo.com/" target="_blank" >Nintendo</a> who enjoys building software to improve people's lives!
 
 ### 👩🏻‍💻 Get to know me: ###
 <p>
@@ -14,11 +14,11 @@ A junior at <a href="https://duke.edu/" target="_blank" >Duke University</a>, pu
 
 
 ### 🌱 My Goals: ###
-- [x] ~Mentor females interested in a tech career~
-- [x] ~Teaching a Senior Software Engineer something new~ (Curious? Ask me what it was!)
+- [x] Mentor females interested in a tech career
+- [x] Teaching a Senior Software Engineer something new (Curious? Ask me what it was!)
 - [ ] Finish the book ["Set Boundaries, Find Peace"](https://amzn.to/3Aak5Kp "Set Boundaries, Find Peace")
 - [ ] Receive an internship for Summer 2022
-- [ ] Graduate college with a B.S. in Computer Science
+- [ ] Graduate Duke with a B.S. in Computer Science
 
 ### ⚙️ Languages & Frameworks: ###
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
