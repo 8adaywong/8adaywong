@@ -1,8 +1,8 @@
-### Hi there, I'm Ada! 👋
+### Hello there 👋
 
-<p>
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/8adaywong" />
-</p>
+<h3>I'm Ada Wong,</h3>
+
+A junior at <a href="https://duke.edu/" target="_blank" >Duke University</a>, pursuing a bachelor’s degree in Computer Science with a certificate in Innovation & Entrepreneurship.
 
 <p>
 <a href="https://instagram.com/itsadawong"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
