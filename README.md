@@ -1,4 +1,4 @@
-# Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+# Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
 ### I'm Ada Wong, ###
 
@@ -15,7 +15,7 @@ A junior at <a href="https://duke.edu/" target="_blank" >Duke University</a>, pu
 
 ### 🌱 My Goals: ###
 - [x] Mentor females interested in a tech career
-- [x] Teaching a Senior Software Engineer something new (Curious? Ask me what it was!)
+- [x] Teaching a Senior Software Engineer something new (Curious? [Ask me what it was](https://www.linkedin.com/in/8adaywong/)!)
 - [ ] Finish the book ["Set Boundaries, Find Peace"](https://amzn.to/3Aak5Kp "Set Boundaries, Find Peace")
 - [ ] Receive an internship for Summer 2022
 - [ ] Graduate Duke with a B.S. in Computer Science
